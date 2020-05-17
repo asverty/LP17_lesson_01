@@ -4,7 +4,7 @@ dict_1 = {
 }
 print(dict_1['city'])
 
-# уменьшение значения "temperature" на 5
+# уменьшение значения "temperature" на 5 градусов
 dict_1 = {
     'city': 'Москва', 
     'temperature': '20'
